@@ -64,26 +64,26 @@ public class AboutFrame extends JFrame{
 		lblThreeLabel.setBounds(10, 73, 359, 138);
 		contentPane.add(lblThreeLabel);
 		
-		JLabel lblFourLabel = new JLabel("<html><p>Open source code: <u>GitHub</u></p></html>");
+		JLabel lblFourLabel = new JLabel("<html><p>Open source code: <u>GitHub.com/SergejsBure/InvestorsClock</u></p></html>");
 		lblFourLabel.setFont(new Font("Tahoma", Font.PLAIN, 12));
 		lblFourLabel.setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
 		lblFourLabel.setBounds(10, 212, 359, 14);
 		lblFourLabel.addMouseListener(new MouseAdapter() {
 	        @Override
 			public void mouseClicked(MouseEvent e) {
-	        	openBrowserLink("http://github.com/");
+	        	openBrowserLink("http://github.com/SergejsBure/InvestorsClock/");
 	        }
 	    });
 		contentPane.add(lblFourLabel);
 		
-		JLabel lblFiveLabel = new JLabel("<html><p>Homepage: <u>SourceForge.net</u></p></html>");
+		JLabel lblFiveLabel = new JLabel("<html><p>Homepage: <u>InvestorsClock.SourceForge.io</u></p></html>");
 		lblFiveLabel.setFont(new Font("Tahoma", Font.PLAIN, 12));
 		lblFiveLabel.setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
 		lblFiveLabel.setBounds(10, 232, 359, 14);
 		lblFiveLabel.addMouseListener(new MouseAdapter() {
 	        @Override
 			public void mouseClicked(MouseEvent e) {
-	        	openBrowserLink("http://sourceforge.net/");
+	        	openBrowserLink("http://investorsclock.sourceforge.io/");
 	        }
 	    });
 		contentPane.add(lblFiveLabel);

@@ -4,7 +4,7 @@
 #define MyAppName "Investor’s Clock"
 #define MyAppVersion "1.09"
 #define MyAppPublisher "Sergejs Bure"
-#define MyAppURL "https://sourceforge.net/"
+#define MyAppURL "https://investorsclock.sourceforge.io/"
 #define MyAppExeName "InvestorsClock.exe"
 
 [Setup]
