@@ -6,6 +6,7 @@ from home or small office. With this program it is easy to control different
 time zones. Designed for Windows version 7, 8.1, 10, 11 only 64 bit.
 
 Homepage https://investorsclock.sourceforge.io/
+Developer’s e-mail: Sergey@Bure.id.LV
 
 Programmed using Java SE 21, OpenJDK 21.0.2, Eclipse IDE 2023-12, program
 launcher was created using Lazarus 3.0 Free Pascal 3.2.2, setup file -
