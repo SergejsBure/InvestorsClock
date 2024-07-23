@@ -1,9 +1,10 @@
-The Investor's clock shows the time in different time zones. This program was
-designed for Wall Street traders and investors. There are few clocks on the
-wall in the trading hall, each clock face shows current time in the investing
-center of certain region. My program is useful for persons, trading stocks
-from home or small office. With this program it is easy to control different
-time zones. Designed for Windows version 7, 8.1, 10, 11 only 64 bit.
+The Investor's Clock shows the time in different time zones. This program was
+designed for Wall Street traders and investors. Inspired by the traditional
+trading hall setup where few clocks on the wall, each clock face shows
+current time in the investing center of certain region. My program is useful
+for persons, trading stocks from home or small office. With this program it
+is easy to control different time zones.
+Designed for Windows 7, 8.1, 10, 11 versions, only 64 bit.
 
 Homepage https://investorsclock.sourceforge.io/
 Developer’s e-mail: Sergey@Bure.id.LV
